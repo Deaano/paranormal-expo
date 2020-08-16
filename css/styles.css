@@ -1,0 +1,223 @@
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#nav-section {
+  background-color: black;
+  padding-right:  2%;
+}
+.navbrand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: grey;
+  margin-left: 4%;
+  margin-top:1%;
+}
+
+
+.navbar-brand:hover {
+  color:white;
+
+}
+
+.nav-link {
+  color: white;
+
+
+}
+
+.nav-link:hover {
+  color:white;
+}
+
+
+#title {
+  background-color: black;
+  text-align: center;
+
+}
+
+
+.title-section {
+  background-color: black;
+  color: grey;
+  font-family: cursive;
+
+
+}
+.title-header {
+  font-size: 5rem;
+  text-align: center;
+  color: white;
+  padding-top: 70px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  margin-left: 5%;
+}
+
+.title-paragraph {
+  padding: 0 15% 5% 15%;
+  color: white;
+  text-align: center;
+  font-size: 1.7rem;
+  margin-right: -1rem;
+  margin-top: 5%;
+}
+
+.title-image {
+
+  width:89%;
+  height: 90%;
+  opacity: 65;
+}
+
+.row {
+
+  margin-left: -15px;
+}
+
+
+
+#aboutteam {
+  text-align: center;
+
+}
+
+.team {
+  width:15rem;
+  margin: 4%;
+  font-family: "Ubuntu";
+  font-weight: bolder;
+
+}
+.names {
+  margin:6% 0 0;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.names1 {
+  margin:3% 0 0;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.bio-pics{
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  margin: 5%;
+}
+
+.bio-pics1 {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  margin: 5%;
+
+
+}
+
+.about-paragraph {
+  padding-left: 13%;
+  padding-right: 13%;
+  font-family: "Ubuntu";
+  font-size: 1.3rem;
+  margin-bottom: 5%;
+
+}
+
+.about-paragraph1 {
+  padding-left: 13%;
+  padding-right: 13%;
+  font-family: "Ubuntu";
+  font-size: 1.3rem;
+  margin-bottom: 7%;
+
+
+}
+
+.together-we-r {
+  padding-top: 20px;
+}
+.together {
+  margin-top: 20px;
+  font-size: 5rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+  color: #908e8e;
+  background-color: black;
+  padding-left: 12%;
+  padding-right: 12%;
+
+}
+
+
+.gang {
+  width:  50%;
+  margin-top: 4%;
+  margin-bottom: 5%;
+}
+
+.how-we-become {
+   margin-top: 6%;
+   margin-bottom: 4%;
+
+  font-weight: bolder;
+}
+.footer-link:hover {
+  color: white;
+  text-decoration: none;
+  border: none;
+
+}
+
+.footer-link {
+  color: #908e8e;
+  font-size: 1.2rem;
+
+
+
+}
+
+.ul-link {
+  list-style-type: none;
+  margin-top: 2%;
+}
+
+
+.webdev {
+  text-align: right;
+}
+
+.bottom-container {
+  padding-top: 1px;
+}
+
+.top-v-container {
+  padding-bottom: 3%;
+}
+
+.vid1 {
+   width: 90%;
+   height: 30%;
+
+}
+
+.video-paragraph {
+  padding-left: 13%;
+  padding-right: 13%;
+  font-family: "Ubuntu";
+  font-size: 1.3rem;
+  padding-top: 9%;
+}
